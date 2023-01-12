@@ -1,4 +1,4 @@
-# Convolutuional-code
+# Convolutional-code
 
 It's a matlab convolutional code without toolbox like poly2trellis or vitdec.
 It can only use for systematic convolutional code with coderate = 1/2.
